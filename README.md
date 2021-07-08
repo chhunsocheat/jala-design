@@ -1,6 +1,6 @@
 ## Implementation
-
-I have written a gulpfile to compile the scss to css and minify them as well.
+### Task runner || Gulp
+I have written a gulpfile to compile the scss to css and minify them as well. Also, used browser sync to listen for any changes to the files for reload.
 ### Javascript
 * I added some vanilla javascript to open and close the nav bar when we are in smaller screen device. 
 * Also added some JS for the nav bar to be sticky and slowly transition for better user experience.
