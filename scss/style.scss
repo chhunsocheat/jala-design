@@ -2,7 +2,8 @@
 $primary: #14213d;
 $background-mask: #14213d8e;
 $hover_mobile: #2e519c;
-
+$medium:900px;
+$medium-lg:1100px;
 //mixin
 @mixin flexCenter() {
   display: flex;
@@ -206,7 +207,7 @@ nav {
   grid-gap: 2em;
   justify-items: center;
   align-items: center;
-  grid-template-columns: repeat(auto-fit, minmax(700px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(800px, 1fr));
 
   img {
     width: 800px;
@@ -280,8 +281,14 @@ footer {
     }
   }
 }
-
-@media (max-width: 900px) {
+@media (max-width: $medium-lg) {
+    footer {
+        p{
+            font-size: 1.4em;
+        }
+    }
+}
+@media (max-width: $medium) {
   nav {
     padding: 0.4em 1em;
 
