@@ -281,6 +281,9 @@ footer {
     }
   }
 }
+
+//Responsiveness
+
 @media (max-width: $medium-lg) {
     footer {
         p{
@@ -289,6 +292,8 @@ footer {
     }
 }
 @media (max-width: $medium) {
+
+  //NAV
   nav {
     padding: 0.4em 1em;
 
@@ -388,7 +393,7 @@ footer {
     }
   }
 
-  //footer
+  //Footer
   footer {
     height: 250px;
     padding: 1em;

@@ -1,7 +1,7 @@
 ## Implementation
 ### Converted this site into Wordpress theme
 * I have converted this static site into a wordpress theme and have included the them file in this directory. 
-* I have also used Advanced Custom Feilds so that the content of the site can be manage be logging into the wordpress admin. 
+* I have also used Advanced Custom Feilds so that the content of the site can be manage by logging into the wordpress admin. 
 * I have recorded a short demo to short the responsiveness of the site and also how I integrated wordpress and how user can change the content of the site with wordpress.
 * Here is the link to the short demo:
 [Demo Video](https://www.youtube.com/watch?v=wkjDqR38AN4)
@@ -24,3 +24,4 @@ After installing all the node packages you need to run
 
 ### `gulp`
 
+Hope you like my implementation of this design.
