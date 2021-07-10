@@ -1,7 +1,9 @@
 ## Implementation
 ### Hosted in AWS
 * This is the IP address to the live site: 3.23.129.255
-* You can login to wordpress using username: admin, password: password
+* You can login to wordpress using 
+#### `username: admin` 
+#### `password: password`
 ### Converted this site into Wordpress theme
 * I have converted this static site into a wordpress theme and have included the them file in this directory. 
 * I have also used Advanced Custom Feilds so that the content of the site can be manage by logging into the wordpress admin. 
