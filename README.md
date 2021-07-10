@@ -4,7 +4,7 @@
 * I have also used Advanced Custom Feilds so that the content of the site can be manage be logging into the wordpress admin. 
 * I have recorded a short demo to short the responsiveness of the site and also how I integrated wordpress and how user can change the content of the site with wordpress.
 * Here is the link to the short demo:
-`https://www.youtube.com/watch?v=wkjDqR38AN4`
+[Demo Video](https://www.youtube.com/watch?v=wkjDqR38AN4)
 
 ### Task runner || Gulp
 I have written a gulpfile to compile the scss to css and minify them as well. Also, used browser sync to listen for any changes to the files for reload.
